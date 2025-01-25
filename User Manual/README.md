@@ -32,7 +32,8 @@ Ok, you are ready to play that game. The game is loaded and started. The rest of
 
 To Raise or Lower the volume, press **SELECT** while pressing **Game Pad Up or Down** <br>
 
-![image](https://github.com/user-attachments/assets/d659404f-fc84-4684-91f3-4e21a074a4a0)
+![image](https://github.com/user-attachments/assets/f7e2d05b-e3e1-43e0-95f9-b7ce0c2c3c9a)
+
 
 <br>
 
