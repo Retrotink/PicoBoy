@@ -13,9 +13,28 @@ Sliding the on/off switch towards the center will turn on the PicoBoy. You will 
 
 <br>
 <br>
+
+**If you get a Red bar across the top:** <br> 
+
+<br>
+
+**1 There are no games on the SD Card or** <br>
+
+**2 The PicoBoy is not reading the SD card.** <br>
+
+![sderror](https://github.com/user-attachments/assets/84840922-51f0-4c5e-9d5a-964aeac01a5b)
+
+
   
-If you get a Red bar across the top, you either have no games, or the PicoBoy is not reading the SD card. <br>
-Try and use a smaller card formatted in **FAT32**. <br>
+
+<br>
+
+Try and format the card in **FAT32**. <br>
+
+## Loading a Game from the Directory listing <br>
+
+<br>
+
 To load a game, scroll up/down or left and right (for other pages if you have many games loaded) <br>
 Press **Button A** to choose the game. This loads the game into flash ROM. There is a life cycle of the number of times you can write to Flash ROM. <br>
 To extend the life of Flash ROM, if you wish to play the last game loaded, even after power off, just press **SELECT** <cr>
