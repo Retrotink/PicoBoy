@@ -32,6 +32,10 @@ Ok, you are ready to play that game. The game is loaded and started. The rest of
 
 To Raise or Lower the volume, press **SELECT** while pressing **Game Pad Up or Down** <br>
 
+![image](https://github.com/user-attachments/assets/d659404f-fc84-4684-91f3-4e21a074a4a0)
+
+<br>
+
 To change the Color Pallete, simply press **SELECT** while pressing **Game Pad Left or Right** <br>
 
 <br>
