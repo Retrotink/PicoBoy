@@ -5,4 +5,13 @@ PicoBoy Nintendo Gameboy emulator <cr>
 
 
 This project is based on the Pico-GB project: https://github.com/YouMakeTech/Pico-GB<br>
-MORE INFO Coming Soon
+<br>
+## What's inside the PicoBoy? <cr>
+<cr>
+
+![20250125_102053](https://github.com/user-attachments/assets/bee4680c-ffb9-4c7f-8746-392bec679805)
+
+  
+<cr>
+The PicoBoy uses only a Rasperry Pi Pico, 2.2" LCD, digital amp, micro-SD connector and Lithium battery<cr>
+
