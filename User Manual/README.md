@@ -45,3 +45,6 @@ Never insert or remove the SD card while the PicoBoy is turned on. <br>
 
 Simply press **SELECT** and **START** and the same time and you will exit the game back to the game directory. <br>
 
+![image](https://github.com/user-attachments/assets/508d36ee-0465-47fe-82a4-79d8b3f6fb3e)
+
+<br>
