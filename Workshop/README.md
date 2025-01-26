@@ -74,6 +74,11 @@ Welcome to the Picoboy workshop. Total build time and assembly is about 1-2 hour
 
 <br>
 
+![20250125_150829](https://github.com/user-attachments/assets/285812b7-95c4-4424-817a-b5a087b0a6d8)
+
+
+<br>
+
 ![20250125_102053](https://github.com/user-attachments/assets/c76dc4d0-6ba0-400c-a680-637ef8d6932e)
 
 <br>
