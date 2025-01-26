@@ -6,21 +6,55 @@ Welcome to the Picoboy workshop. Total build time and assembly is about 1-2 hour
 
 <br>
 
+## Soldering <br>
+Before starting, please have the following tools:<br>
+1. Soldering iron <br>
+2. Solder <br>
+3. Wire cutters <br>
+
 ![20250125_093102](https://github.com/user-attachments/assets/f1e758dc-0490-4948-b892-41e4452bdb6d)
 
+<br> 
+
+**Soldering the Pi Pico to the PCB** <br>
+1. Lay the main PCB on your workbench as shown with the PicoBoy Name up. <br>
+2. Remove the Raspberry Pi Pico 40 pin microcontroller from its packaging<br>
+3. Lay the Pi Pico so it is laying as shown in the picture above on the PCB<br>
+4. Optional: You can apply tape to hold it down if needed, but leave at least 1 corner pin uncovered <br>
+5. Solder 1 corner pin and check that the Pi Pico is sitting even and aligns properly with the PCB contacts<br>
+6. Solder the remaining corners while lightly holding the Pi Pico down against the PCB to assure good contact <br>
+7. If you were using tape to hold down the Pi Pico remove it<br>
+8. Solder the remaining pins and check your work<br>
 <br>
 
 ![20250125_094439](https://github.com/user-attachments/assets/cba7556a-0527-4465-85d0-53d9804e2f8d)
 
 <br>
 
-![20250125_094731](https://github.com/user-attachments/assets/378623ad-1937-4771-baf4-810a225caf4e)
-
-<br>
+**Soldering the speaker to the amp** <br>
+1. Feed the wire through the amp as shown in the picture above<br>
+   Black is (-) and Red is (+)<br>
+2. Solder the wires to the amp and trim excess wire lead<br>
 
 ![20250125_094936](https://github.com/user-attachments/assets/88c8ba80-4317-45b9-bef1-b07e7895cf82)
 
 <br>
+
+**Soldering the amp to the PCB** <br>
+
+3. Place the amp on the main PCB as shown and turn over PCB and lay flat on workspace<br>
+4. Solder each connector and trim excess lead off<br>
+<br>
+
+![20250125_094731](https://github.com/user-attachments/assets/378623ad-1937-4771-baf4-810a225caf4e)
+
+<br>
+
+**Soldering the Cable Connector to PCB** <br>
+
+
+1. Place cable connector on PCB and turn board over<br>
+2. Solder the header connector to the PCB and check work<br><br>
 
 ![20250125_094948](https://github.com/user-attachments/assets/01f2f8f2-bd31-4404-87d6-03cf4e48dd10)
 
@@ -29,18 +63,37 @@ Welcome to the Picoboy workshop. Total build time and assembly is about 1-2 hour
 ![20250125_095133](https://github.com/user-attachments/assets/d3f70b15-5034-4857-9a78-8e542b58604d)
 
 <br>
+Looking at the image above as comparision, make sure amp and connector sit snug to pcb<br><br>
 
 ![20250125_095118](https://github.com/user-attachments/assets/f620f28a-c44f-4369-b7eb-735b5321dd98)
 
 <br>
 
+**Solder the Battery Connector to PCB** <br>
+1. Place Battery Connector onto PCB and turn PCB over onto workspace<br>
+2. Solder both connectors down to the pcb<br>
+3. Verify Connector is flush to PCB<br>
+
 ![20250125_095251](https://github.com/user-attachments/assets/02bdc999-7ade-47b2-b9f8-ce3bbbc6de29)
 
 <br>
 
+**Solder the on/off switch to PCB** <br>
+1. Place switch onto PCB and turn PCB over onto workspace<br>
+2. Solder one of the larger pins to the pcb and turn over<br>
+3. Verify switch is flush to PCB<br>
+4. Continue soldering the remaining pins<br><br>
+
+
 ![20250125_095458](https://github.com/user-attachments/assets/17f5f27a-8949-4e9b-912c-902ad3ddf5e5)
 
 <br>
+
+**Solder the LCD to the PCB** <br>
+<br>NOTE: Turn the board over as LCD is on the other side of PCB<br>
+1. With the LCD sitting as flush as possible, Solder 1 pin and check <br>
+2. Solder remaining pins of the LCD to the main PCB<br>
+3. Trim off excess leads so there is no excess<br>
 
 ![20250125_095436](https://github.com/user-attachments/assets/2e934a12-48a5-47a0-b964-374a23ab6235)
 
@@ -53,6 +106,10 @@ Welcome to the Picoboy workshop. Total build time and assembly is about 1-2 hour
 ![20250125_095612](https://github.com/user-attachments/assets/0198f290-b201-4218-91fb-16db0d4e508a)
 
 <br>
+
+**That completes the soldering portion of the PicoBoy** <br><br>
+
+## Assembling the PicoBoy into the case <br><br>
 
 ![20250125_101035](https://github.com/user-attachments/assets/32b40194-2804-4ba1-b2d1-ab15e758a3a9)
 
