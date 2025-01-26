@@ -189,3 +189,7 @@ Looking at the image above as comparision, make sure amp and connector sit snug 
 <br>
 
 ![20250125_153922](https://github.com/user-attachments/assets/bab79124-bcfe-4b46-8af3-b820969b8bdb)
+
+<br>
+<br>
+## Shown above is a completed PicoBoy. This is the end of the workshop<br>
