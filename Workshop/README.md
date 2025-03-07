@@ -1,4 +1,4 @@
-# PicoBoy Workshop for VCFSW
+# PicoBoy Workshop for VCFSW Sunday June 22nd
 
 Welcome to the Picoboy workshop. Total build time and assembly is about 1-2 hours
 
