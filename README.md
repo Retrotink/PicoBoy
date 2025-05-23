@@ -6,7 +6,7 @@
 
 <cr>
   
-## New Video by Arcade Components PicoBoy Build!<cr>
+## New Video by ArcadeComponents.com PicoBoy Build!<cr>
 
 https://www.youtube.com/watch?v=Rzw01jQ5ynM
 
