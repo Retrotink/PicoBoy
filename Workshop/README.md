@@ -2,9 +2,18 @@
 
 Welcome to the Picoboy workshop. Total build time and assembly is about 1-2 hours<cr>
 
-## Arcade Components Video build of the PicoBoy<cr>
+## ArcadeComponents.com Video build of the PicoBoy<cr>
 
 https://www.youtube.com/watch?v=Rzw01jQ5ynM
+
+<br>
+
+<br>
+
+<br>
+
+
+
 
 ![20250125_153922](https://github.com/user-attachments/assets/d2f34cac-d5cc-46a0-af16-ec1aa53ff89d)
 
