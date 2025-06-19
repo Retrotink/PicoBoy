@@ -19,6 +19,29 @@ https://www.youtube.com/watch?v=Rzw01jQ5ynM
 
 <br>
 
+<br>
+
+## Parts Listing <br>
+
+1. Raspberry Pi Pico PR2040<br>
+2. LCD Display<br>
+3. Case + Buttons<br>
+4. Audio Amp PCB<br>
+5. Battery in custom case<br>
+6. Speaker<br>
+7. Cartridge with USB and SD card connectors<br>
+8. Flat white mylar cable<br>
+9. Blank PicoBoy Printed Circuit Board (PCB) <br>
+10. switch <br>
+11. 2mm battery header connector <br>
+12. Black mylar cable pcb connector <br>
+13. LCD Frame 3D Printed <br>
+14. Switch extension 3D Printed <br>
+15. Screws for case and mounting PCB <br>
+
+<br>
+    
+
 ## Soldering <br>
 Before starting, please have the following tools:<br>
 1. Soldering iron <br>
