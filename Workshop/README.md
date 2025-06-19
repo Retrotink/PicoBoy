@@ -29,8 +29,8 @@ https://www.youtube.com/watch?v=Rzw01jQ5ynM
 4. Audio Amp PCB<br>
 5. Battery in custom case<br>
 6. Speaker<br>
-7. Cartridge with USB and SD card connectors<br>
-8. Flat white mylar cable<br>
+7. Cartridge with PCB mounted USB, SD card connectors and my cable connector <br>
+8. Flat white mylar cable 10 Pin <br>
 9. Blank PicoBoy Printed Circuit Board (PCB) <br>
 10. switch <br>
 11. 2mm battery header connector <br>
