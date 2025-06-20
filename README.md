@@ -24,23 +24,28 @@ Open source dev games: https://hh.gbdev.io/
 <br>
 <br>
 
-## What's inside the PicoBoy? <cr>
+## What's inside the PicoBoy? <br>
 
-<cr>
+<br>
 
 ![20250125_102053](https://github.com/user-attachments/assets/bee4680c-ffb9-4c7f-8746-392bec679805)
 
   
-<cr>
-The PicoBoy uses only a Rasperry Pi Pico, 2.2" LCD, digital amp, micro-SD connector and Lithium battery<cr>
-<cr>
-  <cr>
+<br>
 
+The PicoBoy uses only a Rasperry Pi Pico, 2.2" LCD, digital amp, micro-SD connector and Lithium battery<Br>
+
+  
+<br>
+
+<br>
+
+SD card not included, format FAT32 required <br>
     
-  </cr>
-</cr>
 <br>
 Dev open source games: https://hh.gbdev.io/
 
 This project is based on the Pico-GB project: https://github.com/YouMakeTech/Pico-GB<br>
+
+
 
