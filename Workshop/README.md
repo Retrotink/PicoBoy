@@ -88,6 +88,9 @@ Before starting, please have the following tools:<br>
 
 **Soldering the Cable Connector to PCB** <br>
 
+<br>
+
+### NOTE: The cable connector faces the Pico chip when put in correctly. Please see all pictures
 
 1. Place cable connector on PCB and turn board over<br>
 2. Solder the header connector to the PCB and check work<br><br>
